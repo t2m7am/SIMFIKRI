@@ -1,0 +1,44 @@
+implementasi kriptografi untuk keamanan data dengan MD5 dan Private Key
+1. Sistem Manajemen File Kriptogrfi dengn MD5 menggunkan Netbeans dan PostgreSQL 9.3
+
+=== keamanan informasi di dalam sebuah jaringan komputer=====
+
+Encript/Descript(App'ss)
+1. File document
+2. Image
+
+======================================================
+
+File Massage
+1. Send File & Massage
+2. Monitor Server
+======================================================
+
+FTP
+1. upload file via Apps java		
+
+======================================================
+
+
+Upload/Download
+Forder
+a. lihat direktori (File Share)
+
+File Massages
+a. pesan / krim file
+
+Extensions
+a. penyaringan extense
+b. setting extense
+
+File Management
+a. set folder direktori ( dir upload/download, dir file document, )
+
+User Management
+a. admin
+b. user
+Setting
+
+Activity Logs
+a. melihat actifitas user via socket
+
